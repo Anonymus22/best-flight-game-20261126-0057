@@ -1,8 +1,8 @@
 # Skylark - A Bush-Plane Run over Kepulauan Cahaya
 
-![Best Flight Game](https://make.fun/badge/best-flight-game-20261126-0057.svg)
-![Rank](https://make.fun/badge/best-flight-game-20261126-0057/Anonymus22/best-flight-game-20261126-0057/rank.svg)
-![Reward](https://make.fun/badge/best-flight-game-20261126-0057/Anonymus22/best-flight-game-20261126-0057/reward.svg)
+[![make.fun - Best Flight Game](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![Rank](https://make.fun/badge/best-flight-game-20261126-0057/Anonymus22/best-flight-game-20261126-0057/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![Reward](https://make.fun/badge/best-flight-game-20261126-0057/Anonymus22/best-flight-game-20261126-0057/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
 
 Fly the bush plane **Skylark** through golden rings strung over the tropical
 island chain of Kepulauan Cahaya, then land back on the runway before your
